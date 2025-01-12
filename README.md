@@ -17,3 +17,9 @@ A Flask application that generates quirky and creative social media posts using 
 
 - Python 3.8+
 - Virtual environment (optional, but recommended)
+
+## Demo ScreenShots
+![image](https://github.com/user-attachments/assets/2e22c966-a840-470d-9876-79f16fd125e1)
+
+![image](https://github.com/user-attachments/assets/fb4ed0f6-3732-432c-9049-40b1494fe6ad)
+
